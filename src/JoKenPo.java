@@ -1,13 +1,3 @@
-/**************************************************************** /
-/** Linguagem de Programação                                   **/
-/** Segundo Trimestre de 2023                                 **/
-/** <2°Ano E info>                                           **/
-/** <07/05/2023>                                            **/
-/** Primeiro Exercício-Programa – JoKenPo                  **/
-/** Arquivo: JoKenPo.java                                 **/
-/**                                                      **/
-/** <Laís O. Silva> <18>                                **/
-/*******************************************************/
 
 import java.util.Random;
 import java.util.Scanner;
